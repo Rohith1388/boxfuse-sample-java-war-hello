@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        DEPLOY_DIR = "C:\\tomcat\\webapps" // adjust as per your Tomcat path
+        DEPLOY_DIR = "C:\\Users\\Rana\\apache-tomcat-11.0.9\\webapps" // adjust as per your Tomcat path
     }
 
     stages {
