@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        maven 'test_maven'
+        maven 'Test_maven'
     }
 
     environment {
