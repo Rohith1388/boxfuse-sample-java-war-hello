@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/boxfuse/boxfuse-sample-java-war-hello'
+                git 'https://github.com/Rohith1388/boxfuse-sample-java-war-hello'
             }
         }
 
